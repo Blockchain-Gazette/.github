@@ -12,4 +12,4 @@ This project began as an **open-source media experiment**, empowering blockchain
 
 ---
 
-Now, we intend to take the next leap: soon, we will launch a **Decentralized Media Protocol**—a permissionless framework where contributors, curators, and consumers interact seamlessly to scale blockchain education!0x14e80618B4732DfeE4806cA897cE2dce08472eCe
+Now, we intend to take the next leap: soon, we will launch a **Decentralized Media Protocol**—a permissionless framework where contributors, curators, and consumers interact seamlessly to scale blockchain education!
